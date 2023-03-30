@@ -1,0 +1,6 @@
+[book]
+authors = ["Jackson"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Jackson's ECS Book"
