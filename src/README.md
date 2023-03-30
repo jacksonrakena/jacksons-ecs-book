@@ -14,7 +14,7 @@ I hope this guide can be as impartial as I can possible make it, and that you fi
 
 
 ### Disclosure
-This is a student-written and student-maintainted resource, and is not affiliated with the University of Wellington or any of its constituent schools. It is intended to be used by students as a guide to life at Victoria University of Wellington's School of Engineering and Computer Science. The authors do not take responsibility for any damage caused by the use of this guide.
+This is a student-written and student-maintained resource, and is not affiliated with the University or any of its constituent schools. It is intended to be used by students as a guide to life at Victoria University of Wellington's School of Engineering and Computer Science. The authors do not take responsibility for any damage caused by the use of this guide.
 
 
 You can always email me with questions at [jackson@rakena.co.nz](mailto:jackson@rakena.co.nz) or add me on Discord (`abyssal#1049`).
